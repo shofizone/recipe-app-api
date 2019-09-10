@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\sksho\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Users\\sksho\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.workspaceSymbols.enabled": true,
+	"python.linting.enabled": true
 }
